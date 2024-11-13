@@ -4,8 +4,8 @@ This repository demonstrates how to use the C preprocessor (CPP) as a template e
 HTML files. This technique is merely a proof of concept and meant as a joke and should not be used
 seriously; template engines exist for a reason.
 
-Just like most template engine, this mechanism is not limited to HTML and can be used for any kind
-of file (I heard it's quite good for C and C++).
+Just like most template engines, this mechanism is not limited to HTML and can be used for any kind
+of file (I heard it's quite good for C and C++ ＼⁠(⁠°⁠o⁠°⁠)⁠／).
 
 
 ## Basic Usage
